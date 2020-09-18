@@ -6,3 +6,12 @@ body{
 p{
   padding-left: 90px;
 }
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.refrences{
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
