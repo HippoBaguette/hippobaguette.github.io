@@ -31,6 +31,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="466" y="178" key="FileChooserDialogImpl" timestamp="1600396839339">
       <screen x="0" y="0" width="1368" height="872" />
