@@ -1,53 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5bf6f23-8e3f-4615-931e-87ecb58f3c06" name="Default Changelist" comment="" />
+    <list default="true" id="a78dfa37-6fc7-4a5b-96f4-bdc31da32424" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="ComposerSettings">
+    <execution />
   </component>
-  <component name="ProjectId" id="1hfIxDdfVudgRkRmJMPe8pu9AeE" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jR4PQkmLrnGUNeU5oLlPXVV21I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.3" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Derpboimoon\Documents\GitHub\hippobaguette.github.io" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Derpboimoon\Desktop\Web development\Hipposaurus" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b5bf6f23-8e3f-4615-931e-87ecb58f3c06" name="Default Changelist" comment="" />
-      <created>1600395963305</created>
+      <changelist id="a78dfa37-6fc7-4a5b-96f4-bdc31da32424" name="Default Changelist" comment="" />
+      <created>1603753546985</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600395963305</updated>
+      <updated>1603753546985</updated>
+      <workItem from="1603753548286" duration="51000" />
+      <workItem from="1603753608409" duration="396000" />
+      <workItem from="1603787436921" duration="2137000" />
+      <workItem from="1603854831038" duration="1544000" />
+      <workItem from="1603966830520" duration="34000" />
+      <workItem from="1604624134674" duration="423000" />
+      <workItem from="1604624839098" duration="1940000" />
+      <workItem from="1604629845031" duration="599000" />
+      <workItem from="1604651339887" duration="53000" />
     </task>
     <servers />
   </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="178" key="FileChooserDialogImpl" timestamp="1600396839339">
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1604651390676">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="466" y="178" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1600396839339" />
-    <state x="186" y="81" key="SettingsEditor" timestamp="1600396956146">
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1604651390676" />
+    <state x="186" y="81" key="SettingsEditor" timestamp="1603753598823">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1600396956146" />
+    <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1603753598823" />
+    <state x="93" y="93" width="1181" height="685" key="dock-window-1" timestamp="1603753598947">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="dock-window-1/0.0.1368.872@0.0.1368.872" timestamp="1603753598947" />
+    <state x="93" y="93" width="1181" height="685" key="dock-window-2" timestamp="1603753598947">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="dock-window-2/0.0.1368.872@0.0.1368.872" timestamp="1603753598947" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1603753919511">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1603753919511" />
   </component>
 </project>
